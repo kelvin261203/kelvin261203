@@ -1,10 +1,10 @@
-# 👋 Kelvin – Junior Full Stack Developer
+# Kelvin – Junior Full Stack Developer
 
 I’m a **Junior Full Stack Developer** passionate about building modern, responsive web applications using the **MERN stack** (MongoDB, Express, React, Node.js). I specialize in creating **RESTful APIs**, dynamic **user interfaces**, and engaging user experiences. I’m eager to contribute to innovative projects and grow as a developer.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Frontend:**  
 HTML · CSS · JavaScript · React · Tailwind CSS · Bootstrap · Vite
@@ -20,24 +20,24 @@ Agile · Scrum
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🔹 BlogSphere API  
+### BlogSphere API  
 A RESTful API with **JWT authentication**, **CRUD operations for posts**, and a responsive **React frontend** styled with Tailwind CSS.  
-🚀 Deployed on Vercel (frontend) and Render (backend).  
-👉 [Check the repository](#) <!-- Replace with actual link -->
+Deployed on Vercel (frontend) and Render (backend).  
+[Check the repository](#) <!-- Replace with actual link -->
 
 ### 🔹 Coming Soon  
 Currently developing a **task management app** and an **e-commerce platform**.  
-📌 Stay tuned and check my repositories for updates!
+Stay tuned and check my repositories for updates!
 
 ---
 
-## 💡 About Me
+## About Me
 
-- 🔍 Passionate about learning new technologies and solving complex problems.  
-- 🧼 Committed to writing **clean**, **maintainable** code and following **best practices**.  
-- 🤝 Enthusiastic about collaborating in **Agile teams** and contributing to **open-source projects**.
+- Passionate about learning new technologies and solving complex problems.  
+- Committed to writing **clean**, **maintainable** code and following **best practices**.  
+- Enthusiastic about collaborating in **Agile teams** and contributing to **open-source projects**.
 
 ---
 
