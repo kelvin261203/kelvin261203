@@ -1,5 +1,48 @@
-# 💫 About Me:
-Kelvin<br><br>I’m a Junior Full Stack Developer passionate about building modern, responsive web applications using the MERN stack (MongoDB, Express, React, Node.js). I specialize in creating RESTful APIs, dynamic user interfaces, and engaging user experiences. I’m eager to contribute to innovative projects and grow as a developer.<br><br>🛠️ Skills<br><br>Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Vite<br><br><br>Backend: Node.js, Express, MongoDB, RESTful APIs<br><br><br>Tools: Git, GitHub, npm<br><br><br>Methodologies: Agile, Scrum<br><br>Featured Projects<br><br><br>BlogSphere-API: A RESTful API with JWT authentication, post CRUD operations, and a responsive React frontend styled with Tailwind CSS. Deployed on Vercel/Render.<br><br>Coming Soon: Currently developing a task management app and an e-commerce platform. Check my repositories for updates!<br><br>📫 Connect with Me<br><br><br>About Me<br><br>Passionate about learning new technologies and solving complex problems.<br><br>Committed to writing clean, maintainable code and following best practices.<br><br>Enthusiastic about collaborating in Agile teams and contributing to open-source projects.<br><br>Explore my repositories and feel free to reach out for collaboration opportunities! 🚀
+# 👋 Kelvin – Junior Full Stack Developer
+
+I’m a **Junior Full Stack Developer** passionate about building modern, responsive web applications using the **MERN stack** (MongoDB, Express, React, Node.js). I specialize in creating **RESTful APIs**, dynamic **user interfaces**, and engaging user experiences. I’m eager to contribute to innovative projects and grow as a developer.
+
+---
+
+## 🛠️ Skills
+
+**Frontend:**  
+HTML · CSS · JavaScript · React · Tailwind CSS · Bootstrap · Vite
+
+**Backend:**  
+Node.js · Express · MongoDB · RESTful APIs
+
+**Tools:**  
+Git · GitHub · npm
+
+**Methodologies:**  
+Agile · Scrum
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 BlogSphere API  
+A RESTful API with **JWT authentication**, **CRUD operations for posts**, and a responsive **React frontend** styled with Tailwind CSS.  
+🚀 Deployed on Vercel (frontend) and Render (backend).  
+👉 [Check the repository](#) <!-- Replace with actual link -->
+
+### 🔹 Coming Soon  
+Currently developing a **task management app** and an **e-commerce platform**.  
+📌 Stay tuned and check my repositories for updates!
+
+---
+
+## 💡 About Me
+
+- 🔍 Passionate about learning new technologies and solving complex problems.  
+- 🧼 Committed to writing **clean**, **maintainable** code and following **best practices**.  
+- 🤝 Enthusiastic about collaborating in **Agile teams** and contributing to **open-source projects**.
+
+---
+
+Feel free to explore my repositories and reach out for **collaboration opportunities**!
+
 
 
 ## 🌐 Socials:
